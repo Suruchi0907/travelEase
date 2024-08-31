@@ -23,4 +23,4 @@ Travel Ease is a dynamic travel booking website developed using the WAMP stack. 
 4. Access the website via `localhost`.
 
 ## Credits
-Created by Manvi Mahe.
+Created by Suruchi Lakhotia.
